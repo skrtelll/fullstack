@@ -1,0 +1,4 @@
+.DS_Store
+lab1/node_modules
+lab1/dist
+lab1/.venv
