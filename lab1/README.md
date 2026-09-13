@@ -1,12 +1,8 @@
-# Трекер лабораторных работ и домашних заданий
-
 Frontend-каркас сервиса с лентами, заданиями, расписанием, планером и уведомлениями.
 
-## Запуск
+Запуск
 
-```bash
 npm install
 npm run dev
-```
 
-Технологии: React, TypeScript, React Router, Material UI и Vite. На первом этапе используются демонстрационные данные.
+Технологии: React, TypeScript, React Router, Material UI и Vite.
